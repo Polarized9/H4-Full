@@ -9,7 +9,7 @@ python h4.py
 
 -FOR LINUX :
 sudo apt install python3
-/ python3 h4.py
+AND AFTER DOING THIS python3 h4.py
 
 
 AND NOW YOU CAN RUN IT !
